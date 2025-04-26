@@ -5,7 +5,9 @@
 - Python 3.11 ou superior  
 - Docker e Docker Compose instalados  
 - Git instalado  
-- Sistema operativo: Linux, macOS ou Windows  
+- Sistema operativo: Linux, macOS ou Windows
+
+### Este program já está em produção e tem dados sensiveis logo esta versão não contem a maior parte dos dados criticos da aplicação serve apenas para demostração do codigo
 
 ---
 
