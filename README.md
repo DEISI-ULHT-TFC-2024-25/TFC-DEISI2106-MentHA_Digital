@@ -272,6 +272,5 @@ Sempre que forem feitas alteracoes que influenciem este processo de instalação
 ## 📝 Autores
 
 - Tomás Nave a22208623
----
 - André Jesus a22207061
 
