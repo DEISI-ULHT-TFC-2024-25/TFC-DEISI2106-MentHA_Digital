@@ -258,7 +258,7 @@ No relatório de TFC de 2024/2025 está presente um capítulo que explica o esti
 
 ---
 
-## 📝 Observações Importantes
+## 📑 Observações Importantes
 
 ### Ficheiro requirements.txt:
 
@@ -268,4 +268,10 @@ Isto garante que o ambiente de produção, bem como qualquer outro ambiente de d
 ### Alterações gerais ao projeto:
 
 Sempre que forem feitas alteracoes que influenciem este processo de instalação local do projeto , deploy para o servidor , alterações da arquitetura geral do projeto e tecnologias utilizadas este ficheiro deve ser atualizado , para dessa forma o guia de instalação ficar em conformidade com o estado atual do projeto.
+
+## 📝 Autores
+
+- Tomás Nave a22208623
+---
+- André Jesus a22207061
 
